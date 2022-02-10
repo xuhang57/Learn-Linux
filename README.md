@@ -1,2 +1,6 @@
-# Learn-Linux
-Learn Linux/Unix Operating System Internals
+# Learn Linux
+
+## Resources
+
+* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/)
+* [Arch Linux](https://archlinux.org/)
